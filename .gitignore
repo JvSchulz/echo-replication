@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+out/
+*:Zone.Identifier
+/*.jar
+openspec/
+docs/
